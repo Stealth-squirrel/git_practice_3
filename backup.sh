@@ -2,4 +2,4 @@
 
 echo -e "\n Hello, World!"
 
-echo " Today is " `date`
+echo  Today is " `date`
